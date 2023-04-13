@@ -33,6 +33,12 @@ npm install
 npm run dev
 ```
 
+### Run JSON-SERVER
+
+```sh
+./node_modules/.bin/json-server --watch mock-api/db.json --port 3000 --middlewares mock-api/login-middleware.ts
+```
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh
