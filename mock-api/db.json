@@ -30,13 +30,13 @@
       "user": "admin",
       "password": "123456789",
       "name": "Иван Иванов",
-      "role": "ADMIN"
+      "role": "admin"
     },
     {
       "user": "user",
       "password": "123456789",
       "name": "Петр Петров",
-      "role": "USER"
+      "role": "user"
     }
   ]
 }
